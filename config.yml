@@ -6,13 +6,7 @@ default:
 development:
   debug: true
 
-staging:
-  deploy_strategy:local
-  deploy_path: compiled/staging
-
 production:
-  deploy_strategy:local
-  deploy_path: compiled/production
   debug: false
   digest: true
   compress: true
