@@ -1,0 +1,652 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"followe",
+				"followed_user"
+			],
+			[
+				"crea",
+				"create"
+			],
+			[
+				"follo",
+				"followers"
+			],
+			[
+				"follow",
+				"following"
+			],
+			[
+				"foll",
+				"followed_id"
+			],
+			[
+				"text",
+				"text-decoration"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/javascripts/application.js.coffee",
+			"settings":
+			{
+				"buffer_size": 387,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/stylesheets/application.css.sass",
+			"settings":
+			{
+				"buffer_size": 1080,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"Package Control: enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Eclipse Sync/backup_paths.py",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Eclipse Sync/EclipseSync.py",
+		"/C/Sites/spar_demo/app/javascripts/application.js.coffee",
+		"/C/Sites/spar_demo/config.yml",
+		"/C/Users/Jon/Desktop/DS_Store.txt",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Makefile/Makefile.sublime-settings",
+		"/C/Program Files/Sublime Text 2/sublime_plugin.py",
+		"/C/Program Files/Sublime Text 2/PackageSetup.py",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Pristine Packages/User.sublime-package",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Eclipse Sync/Default (Linux).sublime-keymap",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Eclipse Sync/Default (OSX).sublime-keymap",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Eclipse Sync/backups_navigator.py",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Eclipse Sync/Default (Windows).sublime-keymap",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Eclipse Sync/Default.sublime-commands",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Eclipse Sync/Eclipse Sync.sublime-settings",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Eclipse Sync/Main.sublime-menu",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Eclipse Sync/package-metadata.json",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/win32helpers.py",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/backup_paths.py",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/Default (Windows).sublime-keymap",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/Default.sublime-commands",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/AutomaticBackups.py",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/ERB Insert and Toggle Commands/package-metadata.json",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/ERB Insert and Toggle Commands/erb_block.py",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/Automatic Backups.sublime-settings",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/README.md",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/AutomaticBackups.pyc",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/backups_navigator.py",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/Default (Linux).sublime-keymap",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Automatic Backups/Default (OSX).sublime-keymap",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Eclipse Sync/Eclipsesync.py",
+		"/C/Sites/sample_app/app/models/micropost.rb",
+		"/C/Sites/sample_app/app/models/user.rb",
+		"/C/Sites/sample_app/spec/models/user_spec.rb",
+		"/C/Sites/sample_app/app/views/shared/_feed.html.erb",
+		"/C/Sites/sample_app/app/views/static_pages/home.html.erb",
+		"/C/Sites/sample_app/spec/requests/user_pages_spec.rb",
+		"/C/Sites/sample_app/spec/requests/authentication_pages_spec.rb",
+		"/C/Sites/sample_app/spec/requests/static_pages_spec.rb",
+		"/C/Sites/sample_app/spec/controllers/relationships_controller_spec.rb",
+		"/C/Sites/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/C/Sites/sample_app/app/views/users/_follow.html.erb",
+		"/C/Sites/sample_app/app/views/users/_unfollow.html.erb",
+		"/C/Sites/sample_app/app/views/shared/_stats.html.erb",
+		"/C/Sites/sample_app/app/controllers/users_controller.rb",
+		"/C/Sites/sample_app/app/controllers/relationships_controller.rb",
+		"/C/Sites/sample_app/app/views/relationships/destroy.js.erb",
+		"/C/Sites/sample_app/app/views/relationships/create.js.erb",
+		"/C/Sites/sample_app/app/views/users/show_follow.html.erb",
+		"/C/Sites/sample_app/app/views/users/_follow_form.html.erb",
+		"/C/Sites/sample_app/app/views/users/show.html.erb",
+		"/C/Sites/sample_app/config/routes.rb",
+		"/C/Sites/sample_app/app/views/users/new.html.erb",
+		"/C/Sites/sample_app/lib/tasks/sample_data.rake",
+		"/C/Sites/sample_app/spec/models/micropost_spec.rb",
+		"/C/Sites/sample_app/app/models/relationship.rb",
+		"/C/Sites/sample_app/spec/models/relationship_spec.rb",
+		"/C/Sites/sample_app/db/migrate/20120915024158_create_relationships.rb",
+		"/C/Sites/sample_app/app/views/microposts/_micropost.html.erb",
+		"/C/Sites/sample_app/app/controllers/microposts_controller.rb",
+		"/C/Sites/sample_app/app/controllers/static_pages_controller.rb",
+		"/C/Sites/sample_app/app/views/shared/_feed_item.html.erb",
+		"/C/Sites/sample_app/app/views/users/_user.html.erb",
+		"/C/Sites/sample_app/spec/requests/micropost_pages_spec.rb",
+		"/C/Sites/sample_app/spec/factories.rb",
+		"/C/Sites/sample_app/app/views/shared/_micropost_form.html.erb",
+		"/C/Sites/sample_app/app/views/users/edit.html.erb",
+		"/C/Sites/sample_app/app/views/sessions/new.html.erb",
+		"/C/Sites/sample_app/app/views/shared/_error_messages.html.erb",
+		"/C/Sites/sample_app/app/views/shared/_user_info.html.erb",
+		"/C/Sites/sample_app/app/helpers/sessions_helper.rb",
+		"/C/Sites/sample_app/.rspec",
+		"/C/Sites/sample_app/Gemfile",
+		"/C/Sites/railsinstaller_demo/Gemfile",
+		"/C/Sites/first_app/Gemfile",
+		"/C/Sites/first_app/Gemfile.lock",
+		"/C/Sites/first_app/.gitignore",
+		"/C/Sites/railsinstaller_demo/Gemfile.lock",
+		"/C/Sites/first_app/config/initializers/secret_token.rb",
+		"/C/Sites/first_app/README.md",
+		"/C/Sites/TwitterForZombies/.gitignore",
+		"/C/Users/Jon/Desktop/my project!/helloworld.html",
+		"/C/Users/Jon/Desktop/opentranscript/index.html",
+		"/C/Sites/TwitterForZombies/db/migrate/20120707185016_create_brains.rb",
+		"/C/Users/Jon/Desktop/mhartl-rails_tutorial_sublime_text-c6becc3/mhartl-rails_tutorial_sublime_text-c6becc3/README.md",
+		"/C/Program Files (x86)/Steam/steamapps/common/arma 2 operation arrowhead/_runA2CO_beta.cmd",
+		"/C/Program Files (x86)/Steam/steamapps/common/arma 2 operation arrowhead/Expansion/beta/ArmA2OA.cfg",
+		"/C/Users/Jon/Desktop/some.html",
+		"/C/Sites/TwitterForZombies/app/mailers/zombie_mailer.rb",
+		"/C/Sites/TwitterForZombies/app/controllers/application_controller.rb",
+		"/C/Sites/TwitterForZombies/db/schema.rb",
+		"/C/Sites/TwitterForZombies/app/models/zombie.rb",
+		"/C/Sites/TwitterForZombies/app/controllers/zombies_controller.rb",
+		"/C/Sites/railsinstaller_demo/config/database.yml",
+		"/C/Sites/railsinstaller_demo/config/environment.rb",
+		"/C/Users/Jon/Desktop/opentranscript/core.css",
+		"/C/Users/Jon/Desktop/helloworld/helloworld/index.yaml",
+		"/C/Users/Jon/Desktop/helloworld/helloworld/main.py",
+		"/C/Users/Jon/Desktop/signup_page/main.py",
+		"/C/Users/Jon/Desktop/helloworld/helloworld/app.yaml",
+		"/C/Users/Jon/Desktop/signup_page/index.yaml",
+		"/C/Sites/railsinstaller_demo/app/views/welcome/index.html.erb",
+		"/C/Sites/railsinstaller_demo/app/controllers/welcome_controller.rb",
+		"/C/Users/Jon/Desktop/opentranscript/css/core.css",
+		"/C/Users/Jon/Desktop/DayZUpdater15/DayZUpdater/config/Settings.properties",
+		"/C/Sites/railsinstaller_demo/config/application.rb",
+		"/C/Sites/railsinstaller_demo/config/boot.rb",
+		"/C/Sites/railsinstaller_demo/config/routes.rb",
+		"/C/Sites/railsinstaller_demo/Rakefile",
+		"/C/Sites/railsinstaller_demo/config.ru",
+		"/C/Program Files (x86)/Heroku/lib/heroku/command/ssl.rb",
+		"/C/Program Files (x86)/Heroku/lib/heroku/client/ssl_endpoint.rb",
+		"/C/Sites/railsinstaller_demo/.git/config",
+		"/C/Sites/railsinstaller_demo/.git/index",
+		"/C/Users/Jon/Desktop/helloworld/helloworld.py",
+		"/C/Users/Jon/Desktop/helloworld/app.yaml",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/README.creole",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/zen-coding.sublime-settings",
+		"/C/Users/Jon/Documents/OpenTranscript/OpenTranscript/app.yaml",
+		"/C/Users/Jon/Documents/OpenTranscript/OpenTranscript/main.py",
+		"/C/Users/Jon/Desktop/h5bp-html5-boilerplate-v3.0.2-0-gf8f347e/h5bp-html5-boilerplate-1ac32b7/css/style.css",
+		"/C/Users/Jon/Desktop/Python-2.5.6/Python-2.5.6/README",
+		"/C/Users/Jon/Desktop/h5bp-html5-boilerplate-v3.0.2-0-gf8f347e/h5bp-html5-boilerplate-1ac32b7/readme.md",
+		"/C/Users/Jon/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"save",
+			"ctrl+alt+s",
+			"automatic",
+			"win32helpers",
+			"save",
+			"ctrl+s",
+			"ctrl+save",
+			"get_base_dir",
+			"nav",
+			"navigator",
+			"_follow",
+			"sidebar",
+			"admin",
+			"enter",
+			"f3",
+			"enter",
+			"enter\n\n\n\n",
+			"enter",
+			"find",
+			"admin",
+			"add line",
+			"should",
+			"Feed",
+			"shared/error_messages",
+			"pageup",
+			"sqlite3",
+			"bin",
+			"-beta",
+			":run",
+			"controller",
+			"group",
+			"production",
+			"production development",
+			"group :production",
+			"tab",
+			"wrap",
+			"form",
+			"response",
+			"Circuits",
+			"tab",
+			"4",
+			"tab",
+			"space"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/javascripts/application.js.coffee",
+					"settings":
+					{
+						"buffer_size": 387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								387,
+								387
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/stylesheets/application.css.sass",
+					"settings":
+					{
+						"buffer_size": 1080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.tests":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"micro",
+				"app/models/micropost.rb"
+			],
+			[
+				"feed",
+				"app/views/shared/_feed.html.erb"
+			],
+			[
+				"home",
+				"app/views/static_pages/home.html.erb"
+			],
+			[
+				"micr",
+				"app/models/micropost.rb"
+			],
+			[
+				"users",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"us",
+				"app/models/user.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"stats",
+				"app/views/shared/_stats.html.erb"
+			],
+			[
+				"relacsp",
+				"spec/controllers/relationships_controller_spec.rb"
+			],
+			[
+				"relac",
+				"app/controllers/relationships_controller.rb"
+			],
+			[
+				"fol",
+				"app/views/users/_follow.html.erb"
+			],
+			[
+				"statps",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"unfoll",
+				"app/views/users/_unfollow.html.erb"
+			],
+			[
+				"custom",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"unfol",
+				"app/views/users/_unfollow.html.erb"
+			],
+			[
+				"auten",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"usec",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"relatc",
+				"app/controllers/relationships_controller.rb"
+			],
+			[
+				"aute",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"uc",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"ups",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"new",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"show",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"cust",
+				"app/assets/stylesheets/custom.css.scss"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"usercon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"sampl",
+				"lib/tasks/sample_data.rake"
+			],
+			[
+				"rela",
+				"spec/models/relationship_spec.rb"
+			],
+			[
+				"relation",
+				"app/models/relationship.rb"
+			],
+			[
+				"_user",
+				"app/views/users/_user.html.erb"
+			],
+			[
+				"factor",
+				"spec/factories.rb"
+			],
+			[
+				"userpa",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"_fee",
+				"app/views/shared/_feed.html.erb"
+			],
+			[
+				"_micr",
+				"app/views/microposts/_micropost.html.erb"
+			],
+			[
+				"micps",
+				"spec/requests/micropost_pages_spec.rb"
+			],
+			[
+				"microposts",
+				"app/controllers/microposts_controller.rb"
+			],
+			[
+				"spc",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"sps",
+				"spec/requests/static_pages_spec.rb"
+			],
+			[
+				"stati",
+				"app/controllers/static_pages_controller.rb"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"usersp",
+				"spec/models/user_spec.rb"
+			],
+			[
+				"mic",
+				"app/views/shared/_micropost_form.html.erb"
+			],
+			[
+				"error",
+				"app/views/shared/_error_messages.html.erb"
+			],
+			[
+				"mf",
+				"app/views/shared/_micropost_form.html.erb"
+			],
+			[
+				"new.",
+				"app/views/sessions/new.html.erb"
+			],
+			[
+				"_ui",
+				"app/views/shared/_user_info.html.erb"
+			],
+			[
+				"micropost_p",
+				"spec/requests/micropost_pages_spec.rb"
+			],
+			[
+				"micropost",
+				"spec/models/micropost_spec.rb"
+			],
+			[
+				"sess",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"mir",
+				"app/controllers/microposts_controller.rb"
+			],
+			[
+				"aps",
+				"spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"sample_data",
+				"lib/tasks/sample_data.rake"
+			],
+			[
+				"show.",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"users_",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"readme",
+				"README.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 130.0,
+	"status_bar_visible": true
+}
